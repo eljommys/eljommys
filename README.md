@@ -21,7 +21,7 @@ Yeah this is my 42 profile as you can see I'm awesome LMAO
 | Exam_Rank_03 | --- | Exam |
 | libasm | 115 | Assambler |
 | ft_services | --- | Kubernetes |
-| Minishell | 100 | C project |
+| Minishell | --- | C project |
 | Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
 | Piscine C++ |  | C++ |
