@@ -1,5 +1,5 @@
 ### Sup 👋
-Yeah this is my 42 profile as you can see I'm awesome LMAO
+Below there's my project scores. If you want to really know how my code is go for my last project.
 
 [![jserrano's 42 stats](https://badge42.herokuapp.com/api/stats/jserrano)](https://github.com/JaeSeoKim/badge42)
 
