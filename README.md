@@ -21,7 +21,7 @@ Below there's my project scores. If you want to really know how my code is go fo
 | Exam_Rank_03 | --- | Exam |
 | libasm | 115 | Assambler |
 | ft_services | --- | Kubernetes |
-| Minishell | --- | C project |
+| Minishell | 100 | C project |
 | Exam_Rank_04 |  | Exam |
 | Philosophers |  | C project |
 | Piscine C++ |  | C++ |
