@@ -18,13 +18,12 @@ Below there's my project scores. If you want to really know how my code is go fo
 | Exam_Rank_02 | 100 | Exam |
 | ft_server | 100 | Docker |
 | miniRT | 103 | Raycasting - C project |
-| Exam_Rank_03 | --- | Exam |
+| Exam_Rank_03 | 100 | Exam |
 | libasm | 115 | Assambler |
-| ft_services | --- | Kubernetes |
+| ft_services | 100 | Kubernetes |
 | Minishell | 100 | C project |
-| Exam_Rank_04 |  | Exam |
-| Philosophers |  | C project |
-| Piscine C++ |  | C++ |
+| Exam_Rank_04 | 100 | Exam |
+| Piscine C++ | 100 | C++ |
 | Exam_Rank_05 |  | Exam |
 | ft_container | | C++ |
 | web_server | | C++ |
