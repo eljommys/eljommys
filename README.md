@@ -3,9 +3,9 @@ Below there's my project scores. If you want to really know how my code is go fo
 
 [![jserrano's 42 stats](https://badge42.herokuapp.com/api/stats/jserrano)](https://github.com/JaeSeoKim/badge42)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=j53rran0&count_private=true&show_icons=true&theme=monokai)](https://github.com/eljommys/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=eljommys&count_private=true&show_icons=true&theme=monokai)](https://github.com/eljommys/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j53rran0&layout=compact&langs_count=8&theme=cobalt)](https://github.com/eljommys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljommys&layout=compact&langs_count=8&theme=cobalt)](https://github.com/eljommys/github-readme-stats)
 
 # 42Madrid
 
