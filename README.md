@@ -1,5 +1,6 @@
-### Sup 👋
-Below there's my project scores. If you want to really know how my code is go for my last project.
+### Hi 👋
+Mr. Crypto founder
+🎩 https://opensea.io/collection/mrcrypto-by-racksmafia
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=eljommys&count_private=true&show_icons=true&theme=monokai)](https://github.com/eljommys/github-readme-stats)
 
