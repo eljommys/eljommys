@@ -21,9 +21,8 @@ Mr. Crypto founder
 | Minishell | 100 | C project |
 | Exam_Rank_04 | 100 | Exam |
 | Piscine C++ | 100 | C++ |
-| Exam_Rank_05 |  | Exam |
-| Inception | | C++|
-| ft_container | | C++ |
+| Exam_Rank_05 | 100 | Exam |
+| ft_container | 100 | C++ |
 | web_server | | C++ |
 | ft_transcendence | | Final project |
 | Exam_Rank_06 |  | Exam |
